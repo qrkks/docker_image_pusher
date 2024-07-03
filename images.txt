@@ -6,4 +6,4 @@
 
 #nextcloud
 #postgres
-listmonk
+listmonk/listmonk
