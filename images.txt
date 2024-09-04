@@ -6,6 +6,6 @@
 
 nextcloud
 
-#postgres
+postgres
 #listmonk/listmonk
 #jlesage/jdownloader-2
