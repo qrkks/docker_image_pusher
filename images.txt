@@ -5,7 +5,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 nextcloud
-
 postgres
 #listmonk/listmonk
 #jlesage/jdownloader-2
