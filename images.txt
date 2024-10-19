@@ -10,4 +10,4 @@
 #jlesage/jdownloader-2
 
 node-alpine
-python-slim
+python:3.12-slim
