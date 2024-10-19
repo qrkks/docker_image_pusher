@@ -4,10 +4,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nextcloud
-postgres
+#nextcloud
+#postgres
 #listmonk/listmonk
 #jlesage/jdownloader-2
 
-node-alpine@latest
-python-slim@latest
+node-alpine
+python-slim
