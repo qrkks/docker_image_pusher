@@ -8,3 +8,6 @@ nextcloud
 postgres
 #listmonk/listmonk
 #jlesage/jdownloader-2
+
+node-alpine@latest
+python-slim@latest
