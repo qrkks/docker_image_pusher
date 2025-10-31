@@ -15,3 +15,4 @@ python:3.12-slim
 traefik
 traefik/whoami
 portainer/portainer-ce
+alist
