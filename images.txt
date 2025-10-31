@@ -4,8 +4,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-filebrowser
-jellyfin
+filebrowser/filebrowser
+jellyfin/jellyfin
 
 nextcloud
 postgres
