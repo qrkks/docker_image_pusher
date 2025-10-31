@@ -6,6 +6,7 @@
 
 filebrowser/filebrowser
 jellyfin/jellyfin
+jellyfin/jellyfin:10.10.7
 
 nextcloud
 postgres
