@@ -4,6 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+copyparty/ac
 openlistteam/openlist:latest-aio
 #filebrowser/filebrowser
 #jellyfin/jellyfin
