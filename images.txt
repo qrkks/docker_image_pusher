@@ -10,7 +10,7 @@ openlistteam/openlist:latest-aio
 #jellyfin/jellyfin
 
 
-#nextcloud
+nextcloud
 #postgres
 listmonk/listmonk
 #jlesage/jdownloader-2
