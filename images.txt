@@ -5,8 +5,9 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 redis
-openlistteam/openlist:latest-aio
-listmonk/listmonk
+node:24-alpine
+#openlistteam/openlist:latest-aio
+#listmonk/listmonk
 traefik
 traefik/whoami
 
