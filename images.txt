@@ -6,6 +6,8 @@
 
 redis
 node:24-alpine
+node:22-alpine
+
 #openlistteam/openlist:latest-aio
 #listmonk/listmonk
 traefik
