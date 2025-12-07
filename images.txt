@@ -5,20 +5,25 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 redis
+redis:8
+
 node:24-alpine
 node:22-alpine
 
+postgres
+postgres:18-alpine
+
+traefik
+treafik:3
+traefik/whoami
+
 #openlistteam/openlist:latest-aio
 #listmonk/listmonk
-traefik
-traefik/whoami
 
 #filebrowser/filebrowser
 #jellyfin/jellyfin
 # nextcloud
-postgres
 #jlesage/jdownloader-2
 
-# node:20-alpine
 # python:3.12-slim
 # copyparty/ac
